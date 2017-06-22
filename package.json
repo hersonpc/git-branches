@@ -1,0 +1,14 @@
+{
+  "name": "git-branchs",
+  "version": "1.0.0",
+  "description": "Tutorial de manipulação do git branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herson Melo <hersonpc@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
